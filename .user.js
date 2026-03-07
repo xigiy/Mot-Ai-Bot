@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         通用AI聊天机器人
+// @name         Mot-AI-Bot聊天机器人
 // @namespace    http://tampermonkey.net/
 // @version      v1(test3.0)
 // @description  通用AI聊天机器人，支持多角色切换、记忆管理、手动添加记忆
