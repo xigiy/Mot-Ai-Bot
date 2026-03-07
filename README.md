@@ -1,7 +1,7 @@
 # 🤖 Mot Ai Bot
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-3.0-green.svg)](https://github.com/your-repo)
+[![Version](https://img.shields.io/badge/version-3.0-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 
 一个通用的AI聊天机器人脚本，支持多角色切换、对话记忆、手动添加记忆等功能。基于OpenAI API，可在任何网页上运行（需配置页面元素选择器）。
 
