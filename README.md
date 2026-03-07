@@ -236,12 +236,12 @@ document.querySelector('.your-selector')
 
 ```
 Mot-Ai-Bot/
-├── .user.js      # 主脚本文件
+├── .user.js                 # 主脚本文件
 ├── README.md                # 中文说明
 ├── README-en.md             # 英文说明
 ├── DISCLAIMER.md            # 免责声明
-├── FAQ.md                    # 常见问题解答
-└── LICENSE                   # 许可证
+├── FAQ.md                   # 常见问题解答
+└── LICENSE                  # 许可证
 ```
 ---
 
