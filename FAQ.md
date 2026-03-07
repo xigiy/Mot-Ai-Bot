@@ -166,6 +166,7 @@ const ROLE_START_MESSAGES = {
 - 使用代理
 - 更换网络环境
 - 稍后重试
+- 更换api服务商(但需注意相关使用说明)
 
 ### Q19: 如何查看调试信息？
 **A**: 将配置区的 `DEBUG_MODE` 设为 `true`：
