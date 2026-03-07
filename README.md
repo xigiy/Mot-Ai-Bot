@@ -11,6 +11,7 @@ LICENSE https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
 
 ## 附加声明/重要内容(已包含在LICENSE中)
 
+```LICENSE附加条款
 // Additional Statement (English):
 // 1. This agreement applies to all published and unpublished versions.
 // 2. If you have any questions or requirements, please contact the author: Bilibili FL-xigiy.
@@ -22,7 +23,7 @@ LICENSE https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
 // 2. 如有疑问或需求，可联系作者：B站 FL-xigiy。
 // 3. 本声明不影响 MIT 许可证的法律效力。
 // 4. 由于代码性质与用途原因，不建议但不禁止任何形式的二次分发。
-
+```
 
 
 
