@@ -7,7 +7,7 @@
 
 ## 使用前请先阅读
 
-###[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
+##[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
 
 使用本代码前，请务必阅读完整的[免责声明与风险告知书/DISCLAIMER.md](DISCLAIMER.md)。**
 
