@@ -42,6 +42,7 @@ LICENSE https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器插件
 2. 注册 [OpenAI](https://platform.openai.com/) 账号并获取API密钥
+注. 也可以使用如 [MistralAi](https://mistral.ai/) 之类api
 
 ### 安装步骤
 
