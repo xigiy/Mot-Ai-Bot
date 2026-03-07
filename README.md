@@ -143,5 +143,5 @@ document.querySelector('.your-selector')
 
 ## 📮 联系
 
-- B站：[FL-xigiy](https://space.bilibili.com/你的ID)
+- B站：[FL-xigiy](https://b23.tv/sRYhytP)
 - 如有问题，请在B站私信或评论区留言
