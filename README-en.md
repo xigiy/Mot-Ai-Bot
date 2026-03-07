@@ -217,12 +217,12 @@ Issues and PRs are welcome to improve this project together.
 ```
 
 Mot-Ai-Bot/
-├── .user.js                 # Main script file
-├── README.md                # Chinese documentation
-├── README-en.md             # English documentation
-├── DISCLAIMER.md            # Disclaimer
-├── FAQ.md                   # Frequently Asked Questions
-└── LICENSE                  # License
+├── Mot-Ai-Bot(%remarks%).user.js # Main script file
+├── README.md                     # Chinese documentation
+├── README-en.md                  # English documentation
+├── DISCLAIMER.md                 # Disclaimer
+├── FAQ.md                        # Frequently Asked Questions
+└── LICENSE                       # License
 
 ```
 ---
