@@ -23,9 +23,25 @@ LICENSE https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
 // 2. 如有疑问或需求，可联系作者：B站 FL-xigiy。
 // 3. 本声明不影响 MIT 许可证的法律效力。
 // 4. 由于代码性质与用途原因，不建议但不禁止任何形式的二次分发。
+
 ```
 
+## ⚠️ 高风险警示 / High-Risk Warning
 
+**本代码为脚本性质，仅供学习研究使用。**
+**This code is script-based and for educational purposes only.**
+
+### 🚨 使用风险 / Usage Risks
+- 本脚本可能**违反部分网站的用户协议**，使用后可能导致**账号功能受限、封号或其他处罚**。
+  This script may **violate the terms of service of certain websites**, which could result in **account restrictions, bans, or other penalties**.
+
+### 📌 使用建议 / Recommendations
+- 请在使用前**充分理解代码逻辑**。
+  Please **fully understand the code logic** before use.
+- 建议在**测试环境**中验证，**谨慎用于实际账号**。
+  It is recommended to test in a **safe environment** and use with caution on real accounts.
+- 因**盲目修改或不当使用**导致的后果，由使用者自行承担。
+  Users assume all consequences resulting from **blind modification or improper use**.
 
 ## 📦 功能特点
 
