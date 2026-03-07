@@ -63,7 +63,7 @@
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器插件
 2. 注册 [OpenAI](https://platform.openai.com/) 账号并获取API密钥
-3. 注:也可以使用如 [MistralAi](https://mistral.ai/) 之类api，但须遵守相关条款与免责协议等文件
+3. 注:也可以使用如 [MistralAi](https://mistral.ai/) 之类api，但须遵守**相关条款与免责协议**等文件(免责协议中统一用OpenAi Api等指代)
 
 ### 安装步骤
 
