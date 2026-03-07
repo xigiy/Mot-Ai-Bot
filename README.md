@@ -5,6 +5,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/xigiy/Mot-Ai-Bot)
 ![Text](https://img.shields.io/badge/Made_by-​Deepseek​-blue)
 
+## 🌏 Language / 语言
+
+[![中文](https://img.shields.io/badge/Lang-中文-red.svg)](README.md)
+[![English](https://img.shields.io/badge/Lang-English-blue.svg)](README-en.md)
+
 > "你说得对，但是「Mot-Ai-Bot」是由B站UP主FL-xigiy基于通用AI聊天框架开发的智能对话机器人。机器人运行在一个被称作「[Tampermonkey](https://www.tampermonkey.net/)」的脚本管理器中，在这里，被选中的网页将被授予「自动回复」之力。你将扮演一位名为「用户」的神秘访客，在自由的聊天中邂逅不同风格、各有千秋独特的AI角色，和它们一起交流，探索智能对话的乐趣，同时逐步发掘「API调用」的真相。"
 
 >✨ 版本说明:Mot-Ai-Bot是一个运行在[Tampermonkey](https://www.tampermonkey.net/)上的通用AI聊天机器人。它基于OpenAI API，支持多角色切换、对话记忆、手动添加记忆等功能。你可以把它装在任何网页上，让它成为你的智能聊天伙伴。一个可以装在任何网页上的AI聊天机器人，想聊就聊，想换角色就换角色。
