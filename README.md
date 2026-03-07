@@ -23,6 +23,21 @@
 
 本代码为脚本性质，使用**可能违反网站用户协议**，导致**账号封禁**。使用者**需自行承担一切风险**。
 
+---
+
+## 📌 版本信息
+
+| 项目 | 信息 |
+|------|------|
+| 📅 最后更新 | 2026年3月7日 |
+| 📦 当前版本 | v1.0.0 |
+| ✨ 维护者 | B站 [FL-xigiy](https://b23.tv/sRYhytP) |
+| 📄 许可证 | [MIT(含自定义部分)](LICENSE) + [风险声明](DISCLAIMER.md) |
+
+---
+
+**感谢使用 Mot-Ai-Bot！** ⭐
+
 ## 附加声明/重要内容(已包含在LICENSE中)
 
 ```LICENSE附加条款
@@ -201,3 +216,7 @@ document.querySelector('.your-selector')
 
 - B站：[FL-xigiy](https://b23.tv/sRYhytP)
 - 如有问题，请在B站私信或评论区留言
+
+---
+
+📅 最后更新：2026年3月7日 | 📄 [MIT License](LICENSE) | ✨ [FL-xigiy](https://b23.tv/sRYhytP)
