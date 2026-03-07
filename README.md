@@ -9,9 +9,9 @@
 
 [DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
 
-使用本代码前，请务必阅读完整的[免责声明与风险告知书/DISCLAIMER.md](DISCLAIMER.md)。
+使用本代码前，请**务必**阅读**完整的**[**免责声明与风险告知书/DISCLAIMER.md**](DISCLAIMER.md)。
 
-本代码为脚本性质，使用可能违反网站用户协议，导致账号封禁。使用者需自行承担一切风险。
+本代码为脚本性质，使用**可能违反网站用户协议**，导致**账号封禁**。使用者**需自行承担一切风险**。
 
 ## 附加声明/重要内容(已包含在LICENSE中)
 
