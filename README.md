@@ -6,11 +6,22 @@
 一个通用的AI聊天机器人脚本，支持多角色切换、对话记忆、手动添加记忆等功能。基于OpenAI API，可在任何网页上运行（需配置页面元素选择器）。
 
 ## 使用前请先阅读
-LICENSE(https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE)这很重要！！
+LICENSE https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
+这很重要！！
 
+## 附加声明/重要内容(已包含在LICENSE中)
 
+// Additional Statement (English):
+// 1. This agreement applies to all published and unpublished versions.
+// 2. If you have any questions or requirements, please contact the author: Bilibili FL-xigiy.
+// 3. This statement does not affect the legal validity of the MIT License.
+// 4. Due to the nature and purpose of the code, secondary distribution is not recommended but not prohibited.
 
-
+// 附加声明（中文）：
+// 1. 本协议适用于所有已发布及未发布的版本。
+// 2. 如有疑问或需求，可联系作者：B站 FL-xigiy。
+// 3. 本声明不影响 MIT 许可证的法律效力。
+// 4. 由于代码性质与用途原因，不建议但不禁止任何形式的二次分发。
 
 
 
