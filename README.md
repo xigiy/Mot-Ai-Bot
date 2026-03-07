@@ -3,6 +3,10 @@
 [![MIT&Additional Statement License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xigiy/Mot-Ai-Bot)
+![GitHub stars](https://img.shields.io/github/stars/xigiy/Mot-Ai-Bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/xigiy/Mot-Ai-Bot?style=social)
+![GitHub issues](https://img.shields.io/github/issues/xigiy/Mot-Ai-Bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/xigiy/Mot-Ai-Bot)
 ![Text](https://img.shields.io/badge/Made_by-​Deepseek​-blue)
 
 ## 🌏 Language / 语言
