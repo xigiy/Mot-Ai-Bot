@@ -44,18 +44,35 @@
 
 // ============================================================================
 // 附加声明 | Additional Statement
-// ============================================================================
+//
+============================================================================
+// Additional Statement (English):
+// 1. This agreement applies to all published and unpublished versions.
+// 2. If you have any questions or requirements, please contact the author: Bilibili FL-xigiy.
+// 3. This statement does not affect the legal validity of the MIT License.
+// 4. Due to the nature and purpose of the code, secondary distribution is not recommended but not prohibited.
 
-// 1. 未发布或已发布的版本均适用以上协议，无论是否注明。
-//    All versions, whether released or not, are covered by the above license, regardless of whether they include this notice.
-// 
-// 2. 如有疑问或需求，可联系作者 B站 FL-xigiy。
-//    For questions or requests, please contact the author: Bilibili FL-xigiy.
-// 
+// 附加声明（中文）：
+// 1. 本协议适用于所有已发布及未发布的版本。
+// 2. 如有疑问或需求，可联系作者：B站 FL-xigiy。
 // 3. 本声明不影响 MIT 许可证的法律效力。
-//    This statement does not affect the legal validity of the MIT License.
-// 
-// 4. 由于代码性质与用途原因，不建议但不禁止任何形式的二次分发。
-//    Due to the nature and purpose of this code, secondary distribution is not recommended but not prohibited.
-// 
-// ============================================================================
+// 4. 由于代码性质与用途原因，不建议但不禁止任何形式的二次分发。 ============================================================================
+
+//## ⚠️ 高风险警示 / High-Risk Warning
+//============================================================================
+
+**本代码为脚本性质，仅供学习研究使用。**
+**This code is script-based and for educational purposes only.**
+
+### 🚨 使用风险 / Usage Risks
+- 本脚本可能**违反部分网站的用户协议**，使用后可能导致**账号功能受限、封号或其他处罚**。
+  This script may **violate the terms of service of certain websites**, which could result in **account restrictions, bans, or other penalties**.
+
+### 📌 使用建议 / Recommendations
+- 请在使用前**充分理解代码逻辑**。
+  Please **fully understand the code logic** before use.
+- 建议在**测试环境**中验证，**谨慎用于实际账号**。
+  It is recommended to test in a **safe environment** and use with caution on real accounts.
+- 因**盲目修改或不当使用**导致的后果，由使用者自行承担。
+  Users assume all consequences resulting from **blind modification or improper use**. 
+//============================================================================
