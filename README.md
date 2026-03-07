@@ -9,9 +9,7 @@
 
 ## [介绍灵感来源](https://github.com/FCL-Team/FoldCraftLauncher) 求你了我已经改了
 
-## 使用前请先阅读
-
-[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
+## 使用前请先阅读**[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)**
 
 使用本代码前，请**务必**阅读**完整的**[**免责声明与风险告知书/DISCLAIMER.md**](DISCLAIMER.md)。
 
