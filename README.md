@@ -7,7 +7,7 @@
 
 >✨ 版本说明:Mot-Ai-Bot是一个运行在[Tampermonkey](https://www.tampermonkey.net/)上的通用AI聊天机器人。它基于OpenAI API，支持多角色切换、对话记忆、手动添加记忆等功能。你可以把它装在任何网页上，让它成为你的智能聊天伙伴。一个可以装在任何网页上的AI聊天机器人，想聊就聊，想换角色就换角色。
 
-## [介绍灵感来源](https://github.com/FCL-Team/FoldCraftLauncher) 求你了我已经改了
+>[介绍灵感来源](https://github.com/FCL-Team/FoldCraftLauncher) 求你了我已经改了
 
 ## 使用前请先阅读**[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)**
 
