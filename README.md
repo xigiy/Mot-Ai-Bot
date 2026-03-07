@@ -3,7 +3,7 @@
 [![MIT&Additional Statement License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 ![GitHub last commit](https://img.shields.io/github/last-commit/xigiy/Mot-Ai-Bot)
-https://img.shields.io/badge/Made_by-AI-blue
+![Text](https://img.shields.io/badge/Made_by-AI-blue)
 
 > "你说得对，但是「Mot-Ai-Bot」是由B站UP主FL-xigiy基于通用AI聊天框架开发的智能对话机器人。机器人运行在一个被称作「[Tampermonkey](https://www.tampermonkey.net/)」的脚本管理器中，在这里，被选中的网页将被授予「自动回复」之力。你将扮演一位名为「用户」的神秘访客，在自由的聊天中邂逅不同风格、各有千秋独特的AI角色，和它们一起交流，探索智能对话的乐趣，同时逐步发掘「API调用」的真相。"
 
