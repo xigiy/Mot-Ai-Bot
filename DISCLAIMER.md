@@ -10,7 +10,7 @@
 
 ---
 
-## MIT 许可证
+## MIT 许可证 与 附加声明
 
 ```
 MIT License
@@ -34,6 +34,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+// Additional Statement (English):
+// 1. This agreement applies to all published and unpublished versions.
+// 2. If you have any questions or requirements, please contact the author: Bilibili FL-xigiy.
+// 3. This statement does not affect the legal validity of the MIT License.
+// 4. Due to the nature and purpose of the code, secondary distribution is not recommended but not prohibited.
 ```
 
 ---
