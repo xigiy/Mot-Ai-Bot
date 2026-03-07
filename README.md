@@ -3,7 +3,7 @@
 [![MIT&Additional Statement License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 
-一个通用的AI聊天机器人脚本，支持多角色切换、对话记忆、手动添加记忆等功能。基于OpenAI API，可在任何网页上运行（需配置页面元素选择器）。
+> 你说得对，但是「Mot-Ai-Bot」是由FL-xigiy基于「Tampermonkey」制作的一个通用的AI聊天机器人脚本，支持「多角色切换」、「对话记忆」、「手动添加记忆」等功能。基于OpenAI API，在任何网页上运行，同时逐步发掘「配置页面元素选择器」的真相。
 
 ## 使用前请先阅读
 
