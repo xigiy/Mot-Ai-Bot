@@ -232,14 +232,17 @@ document.querySelector('.your-selector')
 - **运行环境**: [Tampermonkey](https://www.tampermonkey.net/) (用户脚本管理器)
 - **开发语言**: JavaScript (ES6+)
 - **依赖项**: 无外部依赖，纯原生实现
-## 📁 项目结构Mot-Ai-Bot/
-├── Mot-Ai-Bot.user.js      # 主脚本文件
+## 📁 项目结构
+
+```
+Mot-Ai-Bot/
+├── .user.js      # 主脚本文件
 ├── README.md                # 中文说明
 ├── README-en.md             # 英文说明
 ├── DISCLAIMER.md            # 免责声明
 ├── FAQ.md                    # 常见问题解答
 └── LICENSE                   # 许可证
-
+```
 ---
 
 📅 最后更新：2026年3月7日 | 📄 [MIT License](LICENSE) | ✨ [FL-xigiy](https://b23.tv/sRYhytP)
