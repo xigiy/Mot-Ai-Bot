@@ -205,6 +205,26 @@ Issues and PRs are welcome to improve this project together.
 · Bilibili: FL-xigiy
 · For questions, please leave a private message or comment on Bilibili
 
+## 🛠️ Tech Stack
+
+- **Core Engine**: API Service Providers (e.g., [OpenAI API](https://openai.com/) / [Mistral AI](https://mistral.ai/))
+- **Runtime Environment**: [Tampermonkey](https://www.tampermonkey.net/) (User Script Manager)
+- **Language**: JavaScript (ES6+)
+- **Dependencies**: No external dependencies, pure native implementation
+
+## 📁 Project Structure
+
+```
+
+Mot-Ai-Bot/
+├── Mot-Ai-Bot.user.js      # Main script file
+├── README.md                # Chinese documentation
+├── README-en.md             # English documentation
+├── DISCLAIMER.md            # Disclaimer
+├── FAQ.md                    # Frequently Asked Questions
+└── LICENSE                   # License
+
+```
 ---
 
 📅 Last Updated: March 7, 2026 | 📄 MIT License | ✨ FL-xigiy
