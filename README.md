@@ -3,9 +3,34 @@
 [![MIT&Additional Statement License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 
-> "你说得对，但是「Mot-Ai-Bot」是由FL-xigiy基于「[Tampermonkey](https://www.tampermonkey.net/)」制作的一个通用的AI聊天机器人脚本，支持「多角色切换」、「对话记忆」、「手动添加记忆」等功能。基于OpenAI API，启动器运行在一个被称作「浏览器」的系统，在这里，被系统选中的人将被授予「油猴插件」，导引JS之力。你将扮演一位名为「小白」的神秘用户，在自由的使用中「配置各种参数」，和它们一起运行，找出崩溃闪退的原因，同时逐步发掘「对话卡崩」的真相。"
+> "你说得对，但是「Mot-Ai-Bot」是由B站UP主FL-xigiy基于通用AI聊天框架开发的智能对话机器人。机器人运行在一个被称作「[Tampermonkey](https://www.tampermonkey.net/)」的脚本管理器中，在这里，被选中的网页将被授予「自动回复」之力。你将扮演一位名为「用户」的神秘访客，在自由的聊天中邂逅不同风格、各有千秋独特的AI角色，和它们一起交流，探索智能对话的乐趣，同时逐步发掘「API调用」的真相。"
 
-## [扒出来的介绍语](https://github.com/FCL-Team/FoldCraftLauncher)真的是太好用了你们知道吗(要是哪天原作者看到了不满意我就删)
+>✨ 版本说明
+
+项目 说明
+项目名 Mot-Ai-Bot
+开发者 B站 FL-xigiy
+运行平台 Tampermonkey
+核心功能 AI自动回复、多角色切换、对话记忆
+技术支持 OpenAI API
+
+---
+
+🎭 可用角色
+
+角色 特点
+通用助手 友好的聊天伙伴
+翻译助手 专业的语言转换器
+代码专家 精通各种编程语言
+心理咨询师 温暖的倾听者
+
+---
+
+⚙️ 一句话概括
+
+一个可以装在任何网页上的AI聊天机器人，想聊就聊，想换角色就换角色。
+
+## [介绍灵感来源](https://github.com/FCL-Team/FoldCraftLauncher) 求你了我已经改了
 
 ## 使用前请先阅读
 
