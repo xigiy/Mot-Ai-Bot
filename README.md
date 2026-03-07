@@ -7,9 +7,9 @@
 
 ## 使用前请先阅读
 
-##[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
+[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
 
-使用本代码前，请务必阅读完整的[免责声明与风险告知书/DISCLAIMER.md](DISCLAIMER.md)。**
+使用本代码前，请务必阅读完整的[免责声明与风险告知书/DISCLAIMER.md](DISCLAIMER.md)。
 
 本代码为脚本性质，使用可能违反网站用户协议，导致账号封禁。使用者需自行承担一切风险。
 
@@ -174,6 +174,8 @@ document.querySelector('.your-selector')
 | 找不到元素 | 选择器错误 | 重新检查页面元素选择器 |
 | 只回复自己 | 未过滤自己 | 检查 `BOT_NAME` 是否匹配 |
 | 消息发不出去 | 按钮选择器错误 | 测试按钮选择器，或启用回车后备 |
+
+详细见[FAQ](https://github.com/xigiy/Mot-Ai-Bot/blob/main/FAQ.md)
 
 ## 📄 许可证
 
