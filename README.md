@@ -6,8 +6,12 @@
 一个通用的AI聊天机器人脚本，支持多角色切换、对话记忆、手动添加记忆等功能。基于OpenAI API，可在任何网页上运行（需配置页面元素选择器）。
 
 ## 使用前请先阅读
-[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
-这很重要！！
+
+###[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)
+
+使用本代码前，请务必阅读完整的[免责声明与风险告知书/DISCLAIMER.md](DISCLAIMER.md)。**
+
+本代码为脚本性质，使用可能违反网站用户协议，导致账号封禁。使用者需自行承担一切风险。
 
 ## 附加声明/重要内容(已包含在LICENSE中)
 
