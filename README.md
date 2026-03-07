@@ -3,9 +3,9 @@
 [![MIT&Additional Statement License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1-green.svg)](https://github.com/xigiy/Mot-Ai-Bot)
 
-> "你说得对，但是「Mot-Ai-Bot」是由FL-xigiy基于「Tampermonkey」制作的一个通用的AI聊天机器人脚本，支持「多角色切换」、「对话记忆」、「手动添加记忆」等功能。基于OpenAI API，启动器运行在一个被称作「浏览器」的系统，在这里，被系统选中的人将被授予「油猴插件」，导引JS之力。你将扮演一位名为「小白」的神秘用户，在自由的使用中「配置各种参数」，和它们一起运行，找出崩溃闪退的原因，同时逐步发掘「对话卡崩」的真相。""
+> "你说得对，但是「Mot-Ai-Bot」是由FL-xigiy基于「[Tampermonkey](https://www.tampermonkey.net/)」制作的一个通用的AI聊天机器人脚本，支持「多角色切换」、「对话记忆」、「手动添加记忆」等功能。基于OpenAI API，启动器运行在一个被称作「浏览器」的系统，在这里，被系统选中的人将被授予「油猴插件」，导引JS之力。你将扮演一位名为「小白」的神秘用户，在自由的使用中「配置各种参数」，和它们一起运行，找出崩溃闪退的原因，同时逐步发掘「对话卡崩」的真相。"
 
->介绍模板真的是太好用了你们知道吗
+## [扒出来的介绍语](https://github.com/FCL-Team/FoldCraftLauncher)真的是太好用了你们知道吗(要是哪天原作者看到了不满意我就删)
 
 ## 使用前请先阅读
 
