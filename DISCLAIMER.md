@@ -44,9 +44,12 @@ SOFTWARE.
 // 2. If you have any questions or requirements, please contact the author: Bilibili FL-xigiy.
 // 3. This statement does not affect the legal validity of the MIT License.
 // 4. Due to the nature and purpose of the code, secondary distribution is not recommended but not prohibited.
+……
 ```
 
-### 1.2 中文说明 (以英文版为主)/ Chinese Explanation
+详见https://github.com/xigiy/Mot-Ai-Bot/blob/main/LICENSE
+
+### 1.2 中文说明 (以LICENSE为主)/ Chinese Explanation
 
 **本代码按"原样"提供，不提供任何形式的保证，包括但不限于：**
 - 适销性保证
