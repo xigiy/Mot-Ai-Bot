@@ -9,6 +9,8 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/xigiy/Mot-Ai-Bot)
 ![Text](https://img.shields.io/badge/Made_by-​Deepseek​-blue)
 
+#将要有大更新！！！！🎉
+
 ## 🌏 Language / 语言
 
 [![中文](https://img.shields.io/badge/Lang-中文-red.svg)](README.md)
