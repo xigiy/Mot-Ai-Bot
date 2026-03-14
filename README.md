@@ -28,6 +28,7 @@
 
 >(顺便说一句：这条建议也是 AI 写的，套娃继续 😉)
 
+>完整套娃见 github.com/xigiy
 ## 使用前请先阅读**[DISCLAIMER.md](https://github.com/xigiy/Mot-Ai-Bot/blob/main/DISCLAIMER.md)**
 
 使用本代码前，请**务必**阅读**完整的**[**免责声明与风险告知书/DISCLAIMER.md**](DISCLAIMER.md)。
